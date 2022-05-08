@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDevTeamProject", "AppDevTeamProject.csproj", "{424C13A5-BB1C-4102-A7E6-6F2991AEE3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424C13A5-BB1C-4102-A7E6-6F2991AEE3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424C13A5-BB1C-4102-A7E6-6F2991AEE3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424C13A5-BB1C-4102-A7E6-6F2991AEE3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424C13A5-BB1C-4102-A7E6-6F2991AEE3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< Updated upstream
+		SolutionGuid = {252533E0-F447-4508-8E62-A0F7CA8D6F32}
+=======
+		SolutionGuid = {570C66C6-6B87-418B-A450-36556548A2C1}
+>>>>>>> Stashed changes
+	EndGlobalSection
+EndGlobal

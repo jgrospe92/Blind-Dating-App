@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Language:</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;infoBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;alreadyMemberBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="newUserBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="alreadyMemberBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>230, 81</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;alreadyMemberBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="infoBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 5</value>
+  </data>
+  <data name="alreadyMemberBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="&gt;&gt;alreadyMemberBtn.Name" xml:space="preserve">
+    <value>alreadyMemberBtn</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="infoBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="newUserBtn.Text" xml:space="preserve">
+    <value>New user</value>
+  </data>
+  <data name="&gt;&gt;newUserBtn.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;alreadyMemberBtn.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>452, 206</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.Name" xml:space="preserve">
+    <value>languageComboBox</value>
+  </data>
+  <data name="&gt;&gt;newUserBtn.Name" xml:space="preserve">
+    <value>newUserBtn</value>
+  </data>
+  <data name="infoBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 39</value>
+  </data>
+  <data name="languageComboBox.Items3" xml:space="preserve">
+    <value>Filipino</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="languageComboBox.Items2" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="languageComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
+  </data>
+  <data name="languageComboBox.Items" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="&gt;&gt;newUserBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="newUserBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 81</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="languageComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;newUserBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="languageComboBox.Items1" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="newUserBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 16</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;infoBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>239, 14</value>
+  </data>
+  <data name="&gt;&gt;languageComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="alreadyMemberBtn.Text" xml:space="preserve">
+    <value>Already a member</value>
+  </data>
+  <data name="&gt;&gt;infoBtn.Name" xml:space="preserve">
+    <value>infoBtn</value>
+  </data>
+  <data name="infoBtn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABg2lDQ1BJQ0MgcHJvZmlsZQAAKM+VkUso
+        RFEcxn8ziOSxMEmyuAusKCGx0xApSjOjZrBw7x0z1Nw7070jG0tlqyw8Nl4LG2u2FrZKKY+SpZUVsZGu
+        /7mjZlKjnDqdX98539c534HgQca03MoesOy8ExkPa/HErFb9TBU1NNDMkG66uanoWIyy4+OWgFpvulUW
+        /xv1yUXXhIAmPGzmnLzwgvDAaj6neEc4ZC7pSeFT4S5HLih8r3SjwC+K0z4HVWbIiUVGhEPCWrqEjRI2
+        lxxLuF+4PWnZkh+MFzipeE2xlVkxf+6pXli3aM9ElS6zjXEmmGIaDYMVlsmQp1tWWxSXiOyHy/hbff+0
+        uAxxLWOKY5QsFrrvR/3B727dVF9vIakuDFVPnvfWAdVb8LXpeZ+Hnvd1BBWPcGEX/dkDGHwXfbOote9D
+        4zqcXRY1YxvON6DlIac7ui9VyAymUvB6It+UgKZrqJ0r9Pazz/EdxKSrySvY3YPOtGTPl3l3TWlvf57x
+        +yP8DZe8crYMRg5EAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH5gUIDhgHF3zVUAAAAWpJREFU
+        WEftljFOw0AQRX2UcC3Sp03qUICUO9DTENIiqqSloeEIlOEAIQkSkjf/ryaRbY3j2WEBCflLT1olf/6O
+        7fV6i169UnRxuxmAKViBNSiFd/ntCgzEnk8MBXMQjNCbpxEEDcGHBKewBUOJ8QkBk0qgl4nEpQmFvHIt
+        8MTsaRfR/muQdidQwGfOW6iFRRYvn+EojjVPBT5C+5qAuXPBvb59yfQhjjVPg7nEnxeMvHotoMbN4y5s
+        9mXkGmPNo9B9F2Diu6wV52Aq07QLJm4oWnEOVjJNu2DirqYV17h73ssKCHGseRTWMk27YOLWqhXXcDZQ
+        yjTtoqlRpPKTDfz5IzAtQmcDpkVoeg2dDZheQ9NG5GzAth3D2LkVOxqwbcUUzJ0fo8QG0j5GFArOfo5H
+        D9s4MeFY81TwHUxQOG4EeRhLnE8IuASeIxlrvnckOwpBXBP3Emwh36G0KoYCHsuX4PeO5b3+sYriAGvb
+        HA3Z4G8eAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="alreadyMemberBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;infoBtn.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="languageComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>316, 12</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en</value>
+  </metadata>
+</root>
