@@ -78,6 +78,7 @@ namespace AppDevTeamProject
             // 
             // groupBox1
             // 
+            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.BackColor = System.Drawing.SystemColors.ControlLight;
             this.groupBox1.Controls.Add(this.locationTextBox);
             this.groupBox1.Controls.Add(this.genderTextBox);
@@ -93,14 +94,13 @@ namespace AppDevTeamProject
             this.groupBox1.Controls.Add(this.likeslbl);
             this.groupBox1.Controls.Add(this.lNamelbl);
             this.groupBox1.Controls.Add(this.fNamelbl);
-            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
             // locationTextBox
             // 
-            this.locationTextBox.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             resources.ApplyResources(this.locationTextBox, "locationTextBox");
+            this.locationTextBox.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.locationTextBox.Name = "locationTextBox";
             this.locationTextBox.ReadOnly = true;
             // 
@@ -224,9 +224,9 @@ namespace AppDevTeamProject
             // 
             // bioTextBox
             // 
+            resources.ApplyResources(this.bioTextBox, "bioTextBox");
             this.bioTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.bioTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            resources.ApplyResources(this.bioTextBox, "bioTextBox");
             this.bioTextBox.Name = "bioTextBox";
             // 
             // Profile

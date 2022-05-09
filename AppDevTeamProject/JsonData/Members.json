@@ -279,6 +279,34 @@
       "Password": "3333",
       "Likes": [ "fun", "rich", "sweet" ],
       "Avatar": "_default"
+    },
+    {
+      "Id": 20,
+      "FirstName": "John",
+      "LastName": "Cena",
+      "Age": 26,
+      "Gender": "Male",
+      "Location": "montreal",
+      "Bio": "You Can't See Me",
+      "Traits": [ "fun", "rich", "sweet", "tough" ],
+      "Username": "John",
+      "Password": "1234",
+      "Likes": [ "fun", "sweet", "loyal", "lustful" ],
+      "Avatar": "_default"
+    },
+    {
+      "Id": 21,
+      "FirstName": "Kanye",
+      "LastName": "West",
+      "Age": 36,
+      "Gender": "Male",
+      "Location": "Montreal",
+      "Bio": "Looking for the one who will replace my ex wife Kim Kardashian",
+      "Traits": [ "fun", "rich", "lustful", "wild" ],
+      "Username": "kanye",
+      "Password": "1234",
+      "Likes": [ "fun", "rich", "sweet", "loyal", "lustful", "wild" ],
+      "Avatar": "_default"
     }
   ]
 }

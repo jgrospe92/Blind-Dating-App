@@ -117,141 +117,141 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="notificationsLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="notificationsLabel.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
-  </data>
-  <data name="notificationsLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 33</value>
-  </data>
-  <data name="notificationsLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 24</value>
-  </data>
-  <data name="notificationsLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="notificationsLabel.Text" xml:space="preserve">
-    <value>Found:</value>
-  </data>
-  <data name="&gt;&gt;notificationsLabel.Name" xml:space="preserve">
-    <value>notificationsLabel</value>
-  </data>
-  <data name="&gt;&gt;notificationsLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;notificationsLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;notificationsLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="notificationsViewBtn.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="notificationsViewBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>174, 98</value>
-  </data>
-  <data name="notificationsViewBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 27</value>
-  </data>
-  <data name="notificationsViewBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="notificationsViewBtn.Text" xml:space="preserve">
-    <value>View</value>
-  </data>
-  <data name="&gt;&gt;notificationsViewBtn.Name" xml:space="preserve">
-    <value>notificationsViewBtn</value>
-  </data>
-  <data name="&gt;&gt;notificationsViewBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;notificationsViewBtn.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;notificationsViewBtn.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="notificationsCancelBtn.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="notificationsCancelBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>64, 98</value>
-  </data>
-  <data name="notificationsCancelBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 27</value>
-  </data>
-  <data name="notificationsCancelBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="notificationsCancelBtn.Text" xml:space="preserve">
-    <value>Cancel</value>
-  </data>
-  <data name="&gt;&gt;notificationsCancelBtn.Name" xml:space="preserve">
-    <value>notificationsCancelBtn</value>
-  </data>
-  <data name="&gt;&gt;notificationsCancelBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;notificationsCancelBtn.Parent" xml:space="preserve">
+  <data name="&gt;&gt;notifMatchCounLabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;notificationsCancelBtn.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="notifMatchCounLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="notificationsViewBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 98</value>
   </data>
-  <data name="notifMatchCounLabel.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
-  </data>
-  <data name="notifMatchCounLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>199, 33</value>
-  </data>
-  <data name="notifMatchCounLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>21, 24</value>
-  </data>
-  <data name="notifMatchCounLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="notifMatchCounLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;notifMatchCounLabel.Name" xml:space="preserve">
-    <value>notifMatchCounLabel</value>
-  </data>
-  <data name="&gt;&gt;notifMatchCounLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;notifMatchCounLabel.Parent" xml:space="preserve">
+  <data name="&gt;&gt;notificationsLabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;notifMatchCounLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>en</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>327, 158</value>
+  <data name="&gt;&gt;notificationsCancelBtn.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Notifications</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Notifications</value>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="notificationsCancelBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;notificationsLabel.Name" xml:space="preserve">
+    <value>notificationsLabel</value>
+  </data>
+  <data name="notificationsViewBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;notificationsViewBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;notificationsCancelBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;notificationsViewBtn.Name" xml:space="preserve">
+    <value>notificationsViewBtn</value>
+  </data>
+  <data name="&gt;&gt;notificationsCancelBtn.Name" xml:space="preserve">
+    <value>notificationsCancelBtn</value>
+  </data>
+  <data name="&gt;&gt;notifMatchCounLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="notificationsCancelBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 27</value>
+  </data>
+  <data name="notificationsViewBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 27</value>
+  </data>
+  <data name="notificationsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 24</value>
+  </data>
+  <data name="notifMatchCounLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="notifMatchCounLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>327, 158</value>
+  </data>
+  <data name="notificationsLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;notificationsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;notifMatchCounLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="notificationsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 33</value>
+  </data>
+  <data name="notifMatchCounLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="notificationsCancelBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 98</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;notificationsViewBtn.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="notificationsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="notificationsCancelBtn.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="notificationsViewBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="notifMatchCounLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="notifMatchCounLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>199, 33</value>
+  </data>
+  <data name="&gt;&gt;notificationsViewBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="notificationsViewBtn.Text" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="notificationsLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="notificationsLabel.Text" xml:space="preserve">
+    <value>Found:</value>
+  </data>
+  <data name="notificationsCancelBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;notificationsLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="notifMatchCounLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 24</value>
+  </data>
+  <data name="&gt;&gt;notifMatchCounLabel.Name" xml:space="preserve">
+    <value>notifMatchCounLabel</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Notifications</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en</value>
+  </metadata>
 </root>

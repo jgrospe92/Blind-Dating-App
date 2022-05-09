@@ -117,265 +117,371 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="newUserLikeCheckBox.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="userRegistrationApplyBtn.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 34</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="userRegistrationPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>CenterImage</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 19</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Bio:</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items9" xml:space="preserve">
+    <value>Smart</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="newUserAgeUpAndDownNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 22</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="newUserGenderComboBox.Items2" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="newUserBioTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;newUserGenderComboBox.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationPictureBox.Name" xml:space="preserve">
+    <value>userRegistrationPictureBox</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;newUserLikeCheckBox.Name" xml:space="preserve">
+    <value>newUserLikeCheckBox</value>
+  </data>
+  <data name="newUserAgeUpAndDownNum.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
-  <data name="userRegistrationApplyBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>695, 588</value>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Last Name:</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Likes:</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 145</value>
+  </data>
+  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserTraitsCheckBox.Name" xml:space="preserve">
+    <value>newUserTraitsCheckBox</value>
+  </data>
+  <data name="&gt;&gt;newUserLikeCheckBox.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items2" xml:space="preserve">
+    <value>Rich</value>
+  </data>
+  <data name="newUserGenderComboBox.Text" xml:space="preserve">
+    <value>Use the dropdown</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 19</value>
+  </data>
+  <data name="&gt;&gt;newUserTraitsCheckBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserLocationTextBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="newUserUserNameTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 59</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="newUserLikeCheckBox.Items1" xml:space="preserve">
+    <value>Fun</value>
+  </data>
+  <data name="&gt;&gt;newUserLastNameTextBoxt.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserLikeCheckBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>New User Registration</value>
+  </data>
+  <data name="newUserLastNameTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 31</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Location:</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationApplyBtn.Name" xml:space="preserve">
+    <value>userRegistrationApplyBtn</value>
   </data>
   <data name="userRegistrationApplyBtn.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 27</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="userRegistrationApplyBtn.TabIndex" type="System.Int32, mscorlib">
+  <data name="newUserLikeCheckBox.Items12" xml:space="preserve">
+    <value>Short</value>
+  </data>
+  <data name="newUserBioTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 224</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;newUserGenderComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;newUserTraitsCheckBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationClearBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="userRegistrationClearBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>581, 588</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 19</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationPictureBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;submitBtn.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="userRegistrationApplyBtn.Text" xml:space="preserve">
     <value>Apply</value>
   </data>
-  <data name="&gt;&gt;userRegistrationApplyBtn.Name" xml:space="preserve">
-    <value>userRegistrationApplyBtn</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationApplyBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationApplyBtn.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationApplyBtn.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>272, 9</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>257, 30</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>User Registration Form</value>
-  </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
-  </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>94, 19</value>
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>First Name</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>19</value>
-  </data>
-  <data name="newUserBioTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 224</value>
-  </data>
-  <data name="newUserBioTextBox.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="newUserBioTextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>316, 100</value>
-  </data>
-  <data name="newUserBioTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;newUserBioTextBox.Name" xml:space="preserve">
-    <value>newUserBioTextBox</value>
-  </data>
-  <data name="&gt;&gt;newUserBioTextBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserBioTextBox.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserBioTextBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="newUserLocationTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 170</value>
-  </data>
-  <data name="newUserLocationTextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>213, 22</value>
-  </data>
-  <data name="newUserLocationTextBox.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;newUserLocationTextBox.Name" xml:space="preserve">
-    <value>newUserLocationTextBox</value>
-  </data>
-  <data name="&gt;&gt;newUserLocationTextBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserLocationTextBox.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserLocationTextBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="newUserGenderComboBox.Items" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="newUserGenderComboBox.Items1" xml:space="preserve">
-    <value>Female</value>
-  </data>
-  <data name="newUserGenderComboBox.Items2" xml:space="preserve">
-    <value>Other</value>
-  </data>
-  <data name="newUserGenderComboBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 140</value>
-  </data>
-  <data name="newUserGenderComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>146, 24</value>
-  </data>
-  <data name="newUserGenderComboBox.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="newUserGenderComboBox.Text" xml:space="preserve">
-    <value>Use the dropdown</value>
-  </data>
-  <data name="&gt;&gt;newUserGenderComboBox.Name" xml:space="preserve">
-    <value>newUserGenderComboBox</value>
-  </data>
-  <data name="&gt;&gt;newUserGenderComboBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserGenderComboBox.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserGenderComboBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items" xml:space="preserve">
-    <value>Stable</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items1" xml:space="preserve">
-    <value>Fun</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items2" xml:space="preserve">
-    <value>Rich</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items3" xml:space="preserve">
-    <value>Sweet</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items4" xml:space="preserve">
-    <value>Religous</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items5" xml:space="preserve">
-    <value>Respectful</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items6" xml:space="preserve">
-    <value>Charismatic</value>
   </data>
   <data name="newUserLikeCheckBox.Items7" xml:space="preserve">
     <value>Tough</value>
   </data>
-  <data name="newUserLikeCheckBox.Items8" xml:space="preserve">
-    <value>Loyal</value>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
   </data>
-  <data name="newUserLikeCheckBox.Items9" xml:space="preserve">
-    <value>Smart</value>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Traits</value>
   </data>
-  <data name="newUserLikeCheckBox.Items10" xml:space="preserve">
-    <value>Lustful</value>
+  <data name="&gt;&gt;userRegistrationApplyBtn.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="newUserLikeCheckBox.Items11" xml:space="preserve">
-    <value>Wild</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items12" xml:space="preserve">
-    <value>Short</value>
-  </data>
-  <data name="newUserLikeCheckBox.Items13" xml:space="preserve">
-    <value>Tall</value>
-  </data>
-  <data name="newUserLikeCheckBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 465</value>
-  </data>
-  <data name="newUserLikeCheckBox.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="newUserTraitsCheckBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>316, 89</value>
   </data>
-  <data name="newUserLikeCheckBox.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
+  <data name="newUserGenderComboBox.Items" xml:space="preserve">
+    <value>Male</value>
   </data>
-  <data name="&gt;&gt;newUserLikeCheckBox.Name" xml:space="preserve">
-    <value>newUserLikeCheckBox</value>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
   </data>
-  <data name="&gt;&gt;newUserLikeCheckBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserLikeCheckBox.Parent" xml:space="preserve">
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
     <value>groupBox1</value>
   </data>
-  <data name="&gt;&gt;newUserLikeCheckBox.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="newUserLikeCheckBox.Items6" xml:space="preserve">
+    <value>Charismatic</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items" xml:space="preserve">
-    <value>Stable</value>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>19</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items1" xml:space="preserve">
-    <value>Fun</value>
-  </data>
-  <data name="newUserTraitsCheckBox.Items2" xml:space="preserve">
+  <data name="newUserLikeCheckBox.Items2" xml:space="preserve">
     <value>Rich</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items3" xml:space="preserve">
-    <value>Sweet</value>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>groupBox1</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items4" xml:space="preserve">
-    <value>Religous</value>
+  <data name="newUserFirstNameTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 3</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items5" xml:space="preserve">
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;newUserAgeUpAndDownNum.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="newUserUserNameTextBoxt.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="userRegistrationClearBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 27</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="userRegistrationClearBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;newUserFirstNameTextBoxt.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 19</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="&gt;&gt;submitBtn.Name" xml:space="preserve">
+    <value>submitBtn</value>
+  </data>
+  <data name="newUserLikeCheckBox.Items5" xml:space="preserve">
     <value>Respectful</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items6" xml:space="preserve">
-    <value>Charismatic</value>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="newUserPasswordTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
+  </data>
+  <data name="&gt;&gt;newUserUserNameTextBoxt.Name" xml:space="preserve">
+    <value>newUserUserNameTextBoxt</value>
+  </data>
+  <data name="newUserBioTextBox.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 9</value>
+  </data>
+  <data name="newUserGenderComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 140</value>
+  </data>
+  <data name="&gt;&gt;newUserPasswordTextBoxt.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 19</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;newUserBioTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="newUserTraitsCheckBox.Items7" xml:space="preserve">
     <value>Tough</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items8" xml:space="preserve">
-    <value>Loyal</value>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 19</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items9" xml:space="preserve">
-    <value>Smart</value>
+  <data name="&gt;&gt;userRegistrationClearBtn.Name" xml:space="preserve">
+    <value>userRegistrationClearBtn</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items10" xml:space="preserve">
-    <value>Lustful</value>
+  <data name="userRegistrationApplyBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
-  <data name="newUserTraitsCheckBox.Items11" xml:space="preserve">
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="userRegistrationApplyBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>695, 588</value>
+  </data>
+  <data name="newUserLikeCheckBox.Items4" xml:space="preserve">
+    <value>Religous</value>
+  </data>
+  <data name="newUserLikeCheckBox.Items11" xml:space="preserve">
     <value>Wild</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationApplyBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="userRegistrationClearBtn.Text" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="newUserPasswordTextBoxt.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;newUserUserNameTextBoxt.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="userRegistrationPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
   </data>
   <data name="newUserTraitsCheckBox.Items12" xml:space="preserve">
     <value>Short</value>
@@ -383,527 +489,421 @@
   <data name="newUserTraitsCheckBox.Items13" xml:space="preserve">
     <value>Tall</value>
   </data>
-  <data name="newUserTraitsCheckBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 350</value>
+  <data name="newUserTraitsCheckBox.Items10" xml:space="preserve">
+    <value>Lustful</value>
   </data>
-  <data name="newUserTraitsCheckBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>316, 89</value>
+  <data name="newUserTraitsCheckBox.Items8" xml:space="preserve">
+    <value>Loyal</value>
   </data>
-  <data name="newUserTraitsCheckBox.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
+  <data name="newUserLastNameTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
   </data>
-  <data name="&gt;&gt;newUserTraitsCheckBox.Name" xml:space="preserve">
-    <value>newUserTraitsCheckBox</value>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;newUserTraitsCheckBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckedListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="newUserGenderComboBox.Items1" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;newUserFirstNameTextBoxt.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;newUserLastNameTextBoxt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items" xml:space="preserve">
+    <value>Stable</value>
+  </data>
+  <data name="newUserLocationTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;submitBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 327</value>
+  </data>
+  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;newUserGenderComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="newUserLikeCheckBox.Items" xml:space="preserve">
+    <value>Stable</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="newUserAgeUpAndDownNum.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;newUserAgeUpAndDownNum.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items5" xml:space="preserve">
+    <value>Respectful</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserLocationTextBox.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="newUserUserNameTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
+  </data>
+  <data name="submitBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 37</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;newUserLikeCheckBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 173</value>
+  </data>
+  <data name="newUserAgeUpAndDownNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 115</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 19</value>
   </data>
   <data name="&gt;&gt;newUserTraitsCheckBox.Parent" xml:space="preserve">
     <value>groupBox1</value>
   </data>
-  <data name="&gt;&gt;newUserTraitsCheckBox.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 118</value>
+  </data>
+  <data name="newUserGenderComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 24</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>UserName: </value>
+  </data>
+  <data name="submitBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Gender:</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 443</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="newUserPasswordTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 87</value>
+  <data name="&gt;&gt;newUserBioTextBox.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="newUserPasswordTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>213, 22</value>
-  </data>
-  <data name="newUserPasswordTextBoxt.TabIndex" type="System.Int32, mscorlib">
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;newUserPasswordTextBoxt.Name" xml:space="preserve">
-    <value>newUserPasswordTextBoxt</value>
+  <data name="&gt;&gt;userRegistrationClearBtn.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;newUserPasswordTextBoxt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="submitBtn.Text" xml:space="preserve">
+    <value>submit</value>
   </data>
-  <data name="&gt;&gt;newUserPasswordTextBoxt.Parent" xml:space="preserve">
+  <data name="newUserLikeCheckBox.Items10" xml:space="preserve">
+    <value>Lustful</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 350</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>newUserRegistration</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items3" xml:space="preserve">
+    <value>Sweet</value>
+  </data>
+  <data name="submitBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>668, 366</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
     <value>groupBox1</value>
   </data>
   <data name="&gt;&gt;newUserPasswordTextBoxt.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="newUserUserNameTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 59</value>
-  </data>
-  <data name="newUserUserNameTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>213, 22</value>
-  </data>
-  <data name="newUserUserNameTextBoxt.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;newUserUserNameTextBoxt.Name" xml:space="preserve">
-    <value>newUserUserNameTextBoxt</value>
-  </data>
-  <data name="&gt;&gt;newUserUserNameTextBoxt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserUserNameTextBoxt.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserUserNameTextBoxt.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="newUserLastNameTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 31</value>
-  </data>
-  <data name="newUserLastNameTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>213, 22</value>
-  </data>
-  <data name="newUserLastNameTextBoxt.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;newUserLastNameTextBoxt.Name" xml:space="preserve">
-    <value>newUserLastNameTextBoxt</value>
-  </data>
-  <data name="&gt;&gt;newUserLastNameTextBoxt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserLastNameTextBoxt.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserLastNameTextBoxt.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 90</value>
-  </data>
-  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 19</value>
-  </data>
-  <data name="label8.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="label8.Text" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="&gt;&gt;label8.Name" xml:space="preserve">
-    <value>label8</value>
-  </data>
-  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
-    <value>groupBox1</value>
+  <data name="&gt;&gt;newUserGenderComboBox.Name" xml:space="preserve">
+    <value>newUserGenderComboBox</value>
   </data>
-  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
-    <value>8</value>
+  <data name="newUserLikeCheckBox.Items9" xml:space="preserve">
+    <value>Smart</value>
   </data>
-  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  <data name="newUserLikeCheckBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>316, 89</value>
   </data>
-  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 62</value>
-  </data>
-  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 19</value>
-  </data>
-  <data name="label7.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="label7.Text" xml:space="preserve">
-    <value>UserName: </value>
-  </data>
-  <data name="&gt;&gt;label7.Name" xml:space="preserve">
-    <value>label7</value>
-  </data>
-  <data name="&gt;&gt;label7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 327</value>
-  </data>
-  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>98, 19</value>
-  </data>
-  <data name="label5.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="label5.Text" xml:space="preserve">
-    <value>Traits</value>
-  </data>
-  <data name="&gt;&gt;label5.Name" xml:space="preserve">
-    <value>label5</value>
-  </data>
-  <data name="&gt;&gt;label5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="newUserAgeUpAndDownNum.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="newUserAgeUpAndDownNum.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 115</value>
-  </data>
-  <data name="newUserAgeUpAndDownNum.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 22</value>
-  </data>
-  <data name="newUserAgeUpAndDownNum.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="newUserAgeUpAndDownNum.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
-    <value>Center</value>
-  </data>
-  <data name="&gt;&gt;newUserAgeUpAndDownNum.Name" xml:space="preserve">
-    <value>newUserAgeUpAndDownNum</value>
-  </data>
-  <data name="&gt;&gt;newUserAgeUpAndDownNum.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserAgeUpAndDownNum.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserAgeUpAndDownNum.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 201</value>
-  </data>
-  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 19</value>
-  </data>
-  <data name="label11.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="label11.Text" xml:space="preserve">
-    <value>Bio:</value>
-  </data>
-  <data name="&gt;&gt;label11.Name" xml:space="preserve">
-    <value>label11</value>
-  </data>
-  <data name="&gt;&gt;label11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 173</value>
-  </data>
-  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 19</value>
-  </data>
-  <data name="label10.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="label10.Text" xml:space="preserve">
-    <value>Location:</value>
-  </data>
-  <data name="&gt;&gt;label10.Name" xml:space="preserve">
-    <value>label10</value>
-  </data>
-  <data name="&gt;&gt;label10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
-    <value>13</value>
+  <data name="&gt;&gt;userRegistrationClearBtn.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
   </data>
-  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 145</value>
-  </data>
-  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 19</value>
-  </data>
-  <data name="label9.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="label9.Text" xml:space="preserve">
-    <value>Gender:</value>
-  </data>
-  <data name="&gt;&gt;label9.Name" xml:space="preserve">
-    <value>label9</value>
-  </data>
-  <data name="&gt;&gt;label9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 118</value>
-  </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 19</value>
-  </data>
-  <data name="label4.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>Age:</value>
-  </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
-  <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+  <data name="newUserTraitsCheckBox.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
-  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>12</value>
   </data>
-  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 443</value>
+  <data name="newUserFirstNameTextBoxt.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>84, 19</value>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="label3.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>Likes:</value>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
   </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="newUserLocationTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 62</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 19</value>
+  </data>
+  <data name="&gt;&gt;newUserPasswordTextBoxt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 30</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>411, 49</value>
+  </data>
+  <data name="newUserGenderComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;newUserFirstNameTextBoxt.Name" xml:space="preserve">
+    <value>newUserFirstNameTextBoxt</value>
+  </data>
+  <data name="&gt;&gt;submitBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 90</value>
+  </data>
+  <data name="newUserPasswordTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 87</value>
+  </data>
+  <data name="&gt;&gt;newUserPasswordTextBoxt.Name" xml:space="preserve">
+    <value>newUserPasswordTextBoxt</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>User Registration Form</value>
+  </data>
+  <data name="newUserLikeCheckBox.Items13" xml:space="preserve">
+    <value>Tall</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;newUserLocationTextBox.Name" xml:space="preserve">
+    <value>newUserLocationTextBox</value>
+  </data>
+  <data name="userRegistrationPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>353, 289</value>
+  </data>
+  <data name="newUserLastNameTextBoxt.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;newUserFirstNameTextBoxt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserAgeUpAndDownNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserLocationTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items6" xml:space="preserve">
+    <value>Charismatic</value>
+  </data>
+  <data name="newUserLikeCheckBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 465</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;newUserBioTextBox.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items11" xml:space="preserve">
+    <value>Wild</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="&gt;&gt;newUserBioTextBox.Name" xml:space="preserve">
+    <value>newUserBioTextBox</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>791, 628</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items1" xml:space="preserve">
+    <value>Fun</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 201</value>
+  </data>
+  <data name="newUserFirstNameTextBoxt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>351, 566</value>
+  </data>
+  <data name="newUserAgeUpAndDownNum.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+  <data name="userRegistrationClearBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="userRegistrationApplyBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
     <value>groupBox1</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="newUserFirstNameTextBoxt.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
+  <data name="&gt;&gt;newUserUserNameTextBoxt.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
-  <data name="newUserFirstNameTextBoxt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 3</value>
-  </data>
-  <data name="newUserFirstNameTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>213, 22</value>
-  </data>
-  <data name="newUserFirstNameTextBoxt.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;newUserFirstNameTextBoxt.Name" xml:space="preserve">
-    <value>newUserFirstNameTextBoxt</value>
-  </data>
-  <data name="&gt;&gt;newUserFirstNameTextBoxt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;newUserFirstNameTextBoxt.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;newUserFirstNameTextBoxt.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
-  </data>
-  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 34</value>
-  </data>
-  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 19</value>
-  </data>
-  <data name="label6.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="label6.Text" xml:space="preserve">
-    <value>Last Name:</value>
-  </data>
-  <data name="&gt;&gt;label6.Name" xml:space="preserve">
-    <value>label6</value>
-  </data>
-  <data name="&gt;&gt;label6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
-    <value>18</value>
-  </data>
-  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 49</value>
-  </data>
-  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>351, 566</value>
-  </data>
-  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="userRegistrationPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
-  </data>
-  <data name="userRegistrationPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>353, 289</value>
-  </data>
-  <data name="userRegistrationPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>CenterImage</value>
-  </data>
-  <data name="userRegistrationPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationPictureBox.Name" xml:space="preserve">
-    <value>userRegistrationPictureBox</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationPictureBox.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;userRegistrationPictureBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>411, 49</value>
-  </data>
-  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>365, 301</value>
-  </data>
-  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="newUserLikeCheckBox.Items3" xml:space="preserve">
+    <value>Sweet</value>
   </data>
   <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="userRegistrationClearBtn.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
+  <data name="&gt;&gt;newUserAgeUpAndDownNum.Name" xml:space="preserve">
+    <value>newUserAgeUpAndDownNum</value>
   </data>
-  <data name="userRegistrationClearBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>581, 588</value>
+  <data name="&gt;&gt;newUserLastNameTextBoxt.Parent" xml:space="preserve">
+    <value>groupBox1</value>
   </data>
-  <data name="userRegistrationClearBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 27</value>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 19</value>
   </data>
-  <data name="userRegistrationClearBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
+  <data name="newUserLikeCheckBox.Items8" xml:space="preserve">
+    <value>Loyal</value>
   </data>
-  <data name="userRegistrationClearBtn.Text" xml:space="preserve">
-    <value>Clear</value>
+  <data name="&gt;&gt;newUserLastNameTextBoxt.Name" xml:space="preserve">
+    <value>newUserLastNameTextBoxt</value>
   </data>
-  <data name="&gt;&gt;userRegistrationClearBtn.Name" xml:space="preserve">
-    <value>userRegistrationClearBtn</value>
+  <data name="&gt;&gt;userRegistrationPictureBox.Parent" xml:space="preserve">
+    <value>groupBox2</value>
   </data>
-  <data name="&gt;&gt;userRegistrationClearBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="newUserBioTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>316, 100</value>
   </data>
-  <data name="&gt;&gt;userRegistrationClearBtn.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>365, 301</value>
   </data>
-  <data name="&gt;&gt;userRegistrationClearBtn.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 19</value>
   </data>
-  <data name="submitBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>668, 366</value>
-  </data>
-  <data name="submitBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>102, 37</value>
-  </data>
-  <data name="submitBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="submitBtn.Text" xml:space="preserve">
-    <value>submit</value>
-  </data>
-  <data name="&gt;&gt;submitBtn.Name" xml:space="preserve">
-    <value>submitBtn</value>
-  </data>
-  <data name="&gt;&gt;submitBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;submitBtn.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;submitBtn.ZOrder" xml:space="preserve">
+  <data name="userRegistrationPictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>en</value>
-  </metadata>
+  <data name="newUserFirstNameTextBoxt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>213, 22</value>
+  </data>
+  <data name="newUserTraitsCheckBox.Items4" xml:space="preserve">
+    <value>Religous</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 49</value>
+  </data>
+  <data name="&gt;&gt;userRegistrationApplyBtn.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="newUserLocationTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 170</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Age:</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;newUserUserNameTextBoxt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>791, 628</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>New User Registration</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>newUserRegistration</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en</value>
+  </metadata>
 </root>

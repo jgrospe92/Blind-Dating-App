@@ -82,6 +82,7 @@ namespace AppDevTeamProject
             // 
             // groupBox1
             // 
+            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.BackColor = System.Drawing.SystemColors.ControlLight;
             this.groupBox1.Controls.Add(this.newUserBioTextBox);
             this.groupBox1.Controls.Add(this.newUserLocationTextBox);
@@ -103,7 +104,6 @@ namespace AppDevTeamProject
             this.groupBox1.Controls.Add(this.newUserFirstNameTextBoxt);
             this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Controls.Add(this.label2);
-            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
@@ -119,17 +119,18 @@ namespace AppDevTeamProject
             // 
             // newUserGenderComboBox
             // 
+            resources.ApplyResources(this.newUserGenderComboBox, "newUserGenderComboBox");
             this.newUserGenderComboBox.FormattingEnabled = true;
             this.newUserGenderComboBox.Items.AddRange(new object[] {
             resources.GetString("newUserGenderComboBox.Items"),
             resources.GetString("newUserGenderComboBox.Items1"),
             resources.GetString("newUserGenderComboBox.Items2")});
-            resources.ApplyResources(this.newUserGenderComboBox, "newUserGenderComboBox");
             this.newUserGenderComboBox.Name = "newUserGenderComboBox";
             this.newUserGenderComboBox.SelectedIndexChanged += new System.EventHandler(this.newUserGenderComboBox_SelectedIndexChanged);
             // 
             // newUserLikeCheckBox
             // 
+            resources.ApplyResources(this.newUserLikeCheckBox, "newUserLikeCheckBox");
             this.newUserLikeCheckBox.FormattingEnabled = true;
             this.newUserLikeCheckBox.Items.AddRange(new object[] {
             resources.GetString("newUserLikeCheckBox.Items"),
@@ -146,11 +147,11 @@ namespace AppDevTeamProject
             resources.GetString("newUserLikeCheckBox.Items11"),
             resources.GetString("newUserLikeCheckBox.Items12"),
             resources.GetString("newUserLikeCheckBox.Items13")});
-            resources.ApplyResources(this.newUserLikeCheckBox, "newUserLikeCheckBox");
             this.newUserLikeCheckBox.Name = "newUserLikeCheckBox";
             // 
             // newUserTraitsCheckBox
             // 
+            resources.ApplyResources(this.newUserTraitsCheckBox, "newUserTraitsCheckBox");
             this.newUserTraitsCheckBox.FormattingEnabled = true;
             this.newUserTraitsCheckBox.Items.AddRange(new object[] {
             resources.GetString("newUserTraitsCheckBox.Items"),
@@ -167,7 +168,6 @@ namespace AppDevTeamProject
             resources.GetString("newUserTraitsCheckBox.Items11"),
             resources.GetString("newUserTraitsCheckBox.Items12"),
             resources.GetString("newUserTraitsCheckBox.Items13")});
-            resources.ApplyResources(this.newUserTraitsCheckBox, "newUserTraitsCheckBox");
             this.newUserTraitsCheckBox.Name = "newUserTraitsCheckBox";
             // 
             // newUserPasswordTextBoxt
@@ -253,9 +253,9 @@ namespace AppDevTeamProject
             // 
             // groupBox2
             // 
+            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.groupBox2.Controls.Add(this.userRegistrationPictureBox);
-            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.TabStop = false;
             // 

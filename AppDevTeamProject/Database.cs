@@ -25,7 +25,7 @@ namespace AppDevTeamProject
             
             try
             {
-                string fileName = @"F:\gitHub\App-Dev-Team-Project\AppDevTeamProject\JsonData\Members.json";
+                string fileName = @"D:\Program Files (x86)\GitHub\Blind-Dating-App\AppDevTeamProject\JsonData\Members.json";
                 string jsonText = File.ReadAllText(fileName);
                 var data = Newtonsoft.Json.JsonConvert.DeserializeObject<Root>(jsonText);
                 return data;

@@ -137,7 +137,7 @@ namespace AppDevTeamProject
     
             try
             {
-                string path = @"F:\gitHub\App-Dev-Team-Project\AppDevTeamProject\JsonData\Members.json";
+                string path = @"D:\Program Files (x86)\GitHub\Blind-Dating-App\AppDevTeamProject\JsonData\Members.json";
                 string record = JsonConvert.SerializeObject(database);
                 
                 if (File.Exists(path))

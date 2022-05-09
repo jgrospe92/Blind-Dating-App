@@ -62,9 +62,9 @@ namespace AppDevTeamProject
             // 
             // groupBox2
             // 
+            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.groupBox2.Controls.Add(this.matchedPictureBox);
-            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.TabStop = false;
             // 
@@ -76,13 +76,13 @@ namespace AppDevTeamProject
             // 
             // contextMenuStrip1
             // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
             resources.ApplyResources(this.contextMenuStrip1, "contextMenuStrip1");
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
             // 
             // contextMenuStrip2
             // 
-            this.contextMenuStrip2.Name = "contextMenuStrip2";
             resources.ApplyResources(this.contextMenuStrip2, "contextMenuStrip2");
+            this.contextMenuStrip2.Name = "contextMenuStrip2";
             // 
             // mpReportBtn
             // 
@@ -114,6 +114,7 @@ namespace AppDevTeamProject
             // 
             // groupBox1
             // 
+            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.BackColor = System.Drawing.SystemColors.ControlLight;
             this.groupBox1.Controls.Add(this.matchedLocationTextBox);
             this.groupBox1.Controls.Add(this.matchedGenderTextBox);
@@ -129,14 +130,13 @@ namespace AppDevTeamProject
             this.groupBox1.Controls.Add(this.likeslbl);
             this.groupBox1.Controls.Add(this.lNamelbl);
             this.groupBox1.Controls.Add(this.fNamelbl);
-            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
             // matchedLocationTextBox
             // 
-            this.matchedLocationTextBox.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             resources.ApplyResources(this.matchedLocationTextBox, "matchedLocationTextBox");
+            this.matchedLocationTextBox.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.matchedLocationTextBox.Name = "matchedLocationTextBox";
             this.matchedLocationTextBox.ReadOnly = true;
             // 
@@ -213,9 +213,9 @@ namespace AppDevTeamProject
             // 
             // bioTextBox
             // 
+            resources.ApplyResources(this.bioTextBox, "bioTextBox");
             this.bioTextBox.BackColor = System.Drawing.SystemColors.Control;
             this.bioTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            resources.ApplyResources(this.bioTextBox, "bioTextBox");
             this.bioTextBox.Name = "bioTextBox";
             // 
             // matchProfile

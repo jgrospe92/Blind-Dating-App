@@ -48,8 +48,8 @@ namespace AppDevTeamProject
             // 
             // matchNameLabel
             // 
-            this.matchNameLabel.AutoEllipsis = true;
             resources.ApplyResources(this.matchNameLabel, "matchNameLabel");
+            this.matchNameLabel.AutoEllipsis = true;
             this.matchNameLabel.Name = "matchNameLabel";
             // 
             // matchPrevBtn
@@ -75,8 +75,8 @@ namespace AppDevTeamProject
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.matchNameLabel);
             resources.ApplyResources(this.groupBox1, "groupBox1");
+            this.groupBox1.Controls.Add(this.matchNameLabel);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
