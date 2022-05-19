@@ -124,30 +124,24 @@
   <data name="label1.Text" xml:space="preserve">
     <value>Language:</value>
   </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
   <data name="&gt;&gt;infoBtn.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;alreadyMemberBtn.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="newUserBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 45</value>
+  <data name="&gt;&gt;languageComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="alreadyMemberBtn.Location" type="System.Drawing.Point, System.Drawing">
     <value>230, 81</value>
   </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
+  <data name="infoBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 5</value>
   </data>
   <data name="&gt;&gt;alreadyMemberBtn.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="infoBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 5</value>
   </data>
   <data name="alreadyMemberBtn.Size" type="System.Drawing.Size, System.Drawing">
     <value>121, 45</value>
@@ -164,8 +158,8 @@
   <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
-  <data name="infoBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Welcome</value>
   </data>
   <data name="newUserBtn.Text" xml:space="preserve">
     <value>New user</value>
@@ -173,17 +167,23 @@
   <data name="&gt;&gt;newUserBtn.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="&gt;&gt;infoBtn.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="&gt;&gt;alreadyMemberBtn.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Welcome</value>
+  <data name="newUserBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>452, 206</value>
   </data>
-  <data name="&gt;&gt;languageComboBox.Name" xml:space="preserve">
-    <value>languageComboBox</value>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="&gt;&gt;newUserBtn.Name" xml:space="preserve">
     <value>newUserBtn</value>
@@ -194,14 +194,14 @@
   <data name="languageComboBox.Items3" xml:space="preserve">
     <value>Filipino</value>
   </data>
-  <data name="&gt;&gt;languageComboBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="languageComboBox.Items2" xml:space="preserve">
     <value>Spanish</value>
   </data>
-  <data name="languageComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 21</value>
+  <data name="&gt;&gt;languageComboBox.Name" xml:space="preserve">
+    <value>languageComboBox</value>
+  </data>
+  <data name="alreadyMemberBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="languageComboBox.Items" xml:space="preserve">
     <value>English</value>
@@ -227,8 +227,8 @@
   <data name="newUserBtn.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 16</value>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
   </data>
   <data name="&gt;&gt;label1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -267,11 +267,11 @@
         HA3Z4G8eAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="alreadyMemberBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="infoBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
-  <data name="&gt;&gt;infoBtn.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="languageComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
   </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
