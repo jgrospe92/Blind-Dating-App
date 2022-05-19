@@ -28,7 +28,7 @@ It automatically populate the database every time a new user register. There is 
 We simply use a match making algorithm. It takes the user likes or interest and look through the database and check for each user traits or characters. If that user has something in common it will add that into a list and return that list. It will then display it on the GUI as matched users.
 
 # Design Flow
-![Design Flow](Images\Design-Flow.png)
+<img src="Images\Design-Flow.png" alt="Design flow image">
 
 # Future Updates
 - Better error handling
