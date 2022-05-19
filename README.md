@@ -15,12 +15,33 @@ We eliminate the gender limitation, we want this app to be free and accessible f
 ## Friendly UI 
 At the current development, we want to keep it simple and functional.
 ## Match notification
-You will be informed when your profiles matches with other people.
+You will be informed when your profiles matches with other people. You can accept or decline the match up.
 ## User Profile
-
-
-
+Each user will have to build their own profile and add their own photo and short info about themselves.
+**IMPORTANT** Currently, adding your own photo is not yet available.
+## Report
+If you find someone that is suspicious or has a malicious intent. You can report that user. 
 ## Scalability
 It automatically populate the database every time a new user register. There is no limit, the database will grow as long as people are registering.
 
 # How does the matching works?
+We simply use a match making algorithm. It takes the user likes or interest and look through the database and check for each user traits or characters. If that user has something in common it will add that into a list and return that list. It will then display it on the GUI as matched users.
+
+# Design Flow
+![Design Flow](Images\Design-Flow.png)
+
+# Future Updates
+- Better error handling
+- User photo profile submission
+- Use of Web api to store the json data
+- Redesign the GUI
+
+# Found a bug?
+Please help us to improve this app, you can do so by reporting any bug you find.
+
+# Want to contribute?
+Feel free to make a pull request. Right now we are only 2 developers. You are more than welcome to join us.
+
+# Developers
+Jeffrey Grospe - Lead programmer
+Md Saqliyan Islam - programmer
