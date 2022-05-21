@@ -1,6 +1,25 @@
 # Blind-Dating-App
  Academic Project for Application Development Course
 
+- [Blind-Dating-App](#blind-dating-app)
+- [Description](#description)
+- [App Features](#app-features)
+  - [User Registration](#user-registration)
+  - [User Login](#user-login)
+  - [Gender Limitation](#gender-limitation)
+  - [Friendly UI](#friendly-ui)
+  - [Match notification](#match-notification)
+  - [User Profile](#user-profile)
+  - [Report](#report)
+  - [Scalability](#scalability)
+  - [Internalization && Localization](#internalization--localization)
+- [How does the matching works?](#how-does-the-matching-works)
+- [Design Flow](#design-flow)
+- [Future Updates](#future-updates)
+- [Found a bug?](#found-a-bug)
+- [Want to contribute?](#want-to-contribute)
+- [Developers](#developers)
+
 # Description
 This project demonstrates our proficiency in C# language, design pattern and  windows form. It also demonstrates our creativity in designing layouts. We implement json to store and retrieve the data. The app offers internalization up to 4 languages.
 Our goal for this app is to guaranteed users the chance to find partners or potential long time relationships. Similar to other dating apps such as Tinder, Bumble and Hinge. We encourage people to start and initiate conversations online and then go on dates in real life.
@@ -23,6 +42,9 @@ Each user will have to build their own profile and add their own photo and short
 If you find someone that is suspicious or has a malicious intent. You can report that user. 
 ## Scalability
 It automatically populate the database every time a new user register. There is no limit, the database will grow as long as people are registering.
+
+## Internalization && Localization
+Our app is available in 4 different languages. English, French, Spanish and Filipino.
 
 # How does the matching works?
 We simply use a match making algorithm. It takes the user likes or interest and look through the database and check for each user traits or characters. If that user has something in common it will add that into a list and return that list. It will then display it on the GUI as matched users.
